@@ -7,5 +7,6 @@
     三是分享出来，希望能给别人一些帮助。
 ## 目录
 ### 图论  
-### 智能算法  
+### 智能算法 
+- [遗传算法](https://github.com/zilong-shao/matlab-algorithm-code/tree/main/Genetic%20Algorithm)  
 
